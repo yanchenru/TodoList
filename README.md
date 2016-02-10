@@ -1,4 +1,3 @@
 # TodoList
-meteor sample project
-
+meteor sample project  
 change1
